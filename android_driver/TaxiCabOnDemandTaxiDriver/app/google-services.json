@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491106116044",
+    "project_id": "eautos-45089",
+    "storage_bucket": "eautos-45089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491106116044:android:29b7dcdfbd19593a0c7d69",
+        "android_client_info": {
+          "package_name": "com.heven.taxicabondemandtaxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491106116044-8fcl7q0jjnnfdj279bsfkirulp0idgd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_l6WhqGaJzGim7Zme8-96f94pV5QxjSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491106116044-8fcl7q0jjnnfdj279bsfkirulp0idgd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
